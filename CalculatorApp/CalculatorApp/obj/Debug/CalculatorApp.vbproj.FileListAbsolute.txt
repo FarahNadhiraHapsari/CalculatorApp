@@ -1,0 +1,12 @@
+F:\Visual Studio\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+F:\Visual Studio\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+F:\Visual Studio\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+F:\Visual Studio\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.xml
+F:\Visual Studio\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.vbproj.AssemblyReference.cache
+F:\Visual Studio\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+F:\Visual Studio\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Resources.resources
+F:\Visual Studio\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.vbproj.GenerateResource.cache
+F:\Visual Studio\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.vbproj.CoreCompileInputs.cache
+F:\Visual Studio\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+F:\Visual Studio\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.xml
+F:\Visual Studio\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb

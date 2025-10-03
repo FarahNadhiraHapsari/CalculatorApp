@@ -15,7 +15,8 @@ Aplikasi Kalkulator sederhana menggunakan Windows Forms (VB.NET).
 3. Atau buka file `.exe` hasil build di folder `bin/Release`
 
 ## Screenshot
-*(tambahkan gambar kalau ada)*
+<img width="281" height="304" alt="image" src="https://github.com/user-attachments/assets/188235e5-96c8-4ace-9e65-7a9a8c078993" />
+
 
 ## License
 MIT License
